@@ -1,0 +1,19 @@
+.header{
+    display: flex ;
+    background-color: #37ebf1;
+    justify-content: space-between;
+    padding-left:20px;
+    
+}
+.grid{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: space-evenly;
+}
+p{
+    text-align: center;
+    color:blue;
+    font-weight: bold;
+    font-family:Comic Sans MS;
+    font-size: 30px;
+}
